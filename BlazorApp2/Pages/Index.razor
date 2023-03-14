@@ -1,0 +1,24 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, @nome</h1> 
+<h1>data e hora atual: @DateTime.Today</h1>
+<hr />
+<h1>@Saudacao(nome)</h1>
+<hr />
+<h2> 2 + 2 = @(2+2)</h2>
+<button @onclick="@(() => Console.WriteLine("fui clickado"))">Ckick aqui</button>
+
+@code{
+	string nome = "gabriel";
+
+	private string Saudacao(string nome){
+		var mensagem = "bem vindo " + nome.ToUpper();
+		return mensagem;
+	}
+}
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" />
