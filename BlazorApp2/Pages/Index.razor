@@ -10,12 +10,30 @@
 <h2> 2 + 2 = @(2+2)</h2>
 <button @onclick="@(() => Console.WriteLine("fui clickado"))">Ckick aqui</button>
 
+<h1>2 + 2 = @(numeros.Multiplica(2, 5))</h1>
+<h1>2 + 2 = @(numeros.Somar(2, 5))</h1>
+<h1>2 + 2 = @(numeros.Subtrair(2, 5))</h1>
+
 @code{
+	public class numeros{
+		public static int Somar(int n1, int n2) => n1 + n2;
+		public static int Subtrair(int n1, int n2) => n1 - n2;
+		public static int Multiplica(int n1, int n2) => n1 * n2;
+	}
+
+
+
+
+
 	string nome = "gabriel";
 
 	private string Saudacao(string nome){
 		var mensagem = "bem vindo " + nome.ToUpper();
 		return mensagem;
+	}
+
+	private void TrataClickBotao(){
+		
 	}
 }
 

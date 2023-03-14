@@ -798,8 +798,6 @@ C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\build-gz\IltZ
 C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\build-gz\mCC97iWw.gz
 C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\build-gz\wW8x+HdR.gz
 C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\build-gz\d+HAlBgt.gz
-C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\build-gz\FSkRnP7o.gz
-C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\build-gz\uwNqfLWG.gz
 C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\build-gz\hixkPstJ.gz
 C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\blazor.boot.json
 C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\staticwebassets\msbuild.BlazorApp2.Microsoft.AspNetCore.StaticWebAssets.props
@@ -818,3 +816,5 @@ C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\BlazorApp2.dl
 C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\refint\BlazorApp2.dll
 C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\BlazorApp2.pdb
 C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\ref\BlazorApp2.dll
+C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\build-gz\FSkRnP7o.gz
+C:\Users\gabri\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net6.0\build-gz\uwNqfLWG.gz

@@ -216,6 +216,43 @@
         }
       },
       {
+        "HashCode": -924197320,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp2.Shared.NavMenu",
+        "AssemblyName": "BlazorApp2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp2.Shared.NavMenu",
+          "Common.TypeNamespace": "BlazorApp2.Shared",
+          "Common.TypeNameIdentifier": "NavMenu"
+        }
+      },
+      {
+        "HashCode": -1490449756,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp2.Shared.NavMenu",
+        "AssemblyName": "BlazorApp2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp2.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp2.Shared.NavMenu",
+          "Common.TypeNamespace": "BlazorApp2.Shared",
+          "Common.TypeNameIdentifier": "NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -192732363,
         "Kind": "Components.Component",
         "Name": "BlazorApp2.Shared.MainLayout",
@@ -318,43 +355,6 @@
           "Common.TypeNamespace": "BlazorApp2.Shared",
           "Common.TypeNameIdentifier": "MainLayout",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -924197320,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp2.Shared.NavMenu",
-        "AssemblyName": "BlazorApp2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp2.Shared.NavMenu",
-          "Common.TypeNamespace": "BlazorApp2.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
-        }
-      },
-      {
-        "HashCode": -1490449756,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp2.Shared.NavMenu",
-        "AssemblyName": "BlazorApp2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorApp2.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp2.Shared.NavMenu",
-          "Common.TypeNamespace": "BlazorApp2.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
